@@ -55,13 +55,26 @@
 
 ### 🌐 **Connect With Me**  
 
+### 🌐 **Connect With Me**  
+
 <p align="center">
-  <a href="https://github.com/SumitGujariya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="[[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/sumit-gujariya-12858325a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/sumit-gujariya-)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gujariyasumit96@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=adobe&logoColor=FF0000" /></a>
-  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=google-chrome&logoColor=F4B400" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=for-the-badge&logo=github&color=181717&logoColor=white&link=https://github.com/YOUR_GITHUB_USERNAME" />
+  </a>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=YOUR_LINKEDIN_LINK" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=adobe&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
