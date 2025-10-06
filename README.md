@@ -1,7 +1,7 @@
 <!-- 💫 Animated Banner / Stylish Header -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF7F50&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sumit+Gujariya;Full+Stack+Developer;Python+%7C+React+%7C+FastAPI+%7C+ML+Enthusiast)](https://git.io/typing-svg)
 
----
+
 
 <h3 align="center">💻 Turning Ideas Into Code | Full Stack & AI/ML Enthusiast</h3>
 
