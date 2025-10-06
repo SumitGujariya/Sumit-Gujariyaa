@@ -46,11 +46,11 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SumitGujariya&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SumitGujariya&show_icons=true&theme=redical" height="150"/>
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitGujariya&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitGujariya&layout=compact&theme=readical" height="150"/>
   <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitGujariya&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitGujariya&theme=redical" height="150"/>
 </p>
 
 ---
