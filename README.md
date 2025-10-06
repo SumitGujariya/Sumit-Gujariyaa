@@ -11,7 +11,7 @@
 
 <p align="center">
   <!-- Frontend -->
-  <b><h1>Frontend:</h1></b>
+  <b>FRONTEND:</b>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -19,7 +19,7 @@
 
   <br><br>
   <!-- Backend -->
-  <b>Backend & Data:</b>
+  <b>BACKEND & DATA:</b>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" />
