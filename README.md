@@ -1,6 +1,9 @@
-<!-- 💫 Animated Banner / Stylish Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF7F50&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sumit;Full+Stack+Developer)](https://git.io/typing-svg)
-
+<p align="center">
+  <!-- 💫 Animated Banner / Stylish Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF7F50&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sumit+Gujariya;Full+Stack+Developer" alt="Typing SVG"/>
+  </a>
+</p>
 
 
 <h3 align="center">💻 Turning Ideas Into Code | Full Stack & AI/ML Enthusiast</h3>
@@ -57,10 +60,7 @@
  
 
 <p align="center">
-  <a href="https://github.com/SumitGujariya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sumit-gujariya-"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-  <a href="mailto:gujariyasumit96@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
-  <a href="https://drive.google.com/file/d/18P6gtMv71NtH8bMkar4SOtFsvxxLMXor/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=adobe&logoColor=FF0000"/></a>
+  <a href="https://www.linkedin.com/in/sumit-gujariya-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 
