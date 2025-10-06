@@ -59,8 +59,8 @@
   <a href="https://github.com/SumitGujariya">
     <img src="https://img.shields.io/github/followers/SumitGujariya?label=Follow&style=for-the-badge&logo=github&color=181717&logoColor=white&link=https://github.com/SumitGujariya" />
   </a>
-  <a href="(https://www.linkedin.com/in/sumit-gujariya-)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=[(https://www.linkedin.com/in/sumit-gujariya-)]" />
+  <a href="https://www.linkedin.com/in/sumit-gujariya-">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sumit-gujariya-" />
   </a>
   <a href="mailto:gujariyasumit96@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail&logoColor=white" />
