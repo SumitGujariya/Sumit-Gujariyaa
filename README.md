@@ -63,6 +63,6 @@
 
 ---
 
-> 💬 *"Code. Create. Contribute. Repeat."*
+💬 *"Code. Create. Contribute. Repeat."*
 
 > ⭐ Don’t forget to star repositories you like!
