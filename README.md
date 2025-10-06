@@ -65,4 +65,4 @@
 
 💬 *"Code. Create. Contribute. Repeat."*
 
-> ⭐ Don’t forget to star repositories you like!
+⭐ Don’t forget to star repositories you like!
